@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "doc-vault.ai",
+  "name": "TrakPDF.ai",
   "version": "1.0.0",
   "description": "Upload PDFs, detect expiry dates, and ask AI questions directly from your browser.",
   "permissions": ["storage", "activeTab", "scripting"],
