@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { getAllDocuments } from "@/lib/db"; // ✅ available in browser
+import { getAllDocuments } from "@/lib/db"; 
 
 export default function AskSection() {
   const [question, setQuestion] = useState("");
